@@ -8,4 +8,4 @@ I had problem with makeing the nav bar above the hero video to be with hover efe
 
 ## View it live
 
-https://distracted-brattain-bf4dcb.netlify.app/
+https://business-site-sandra-shumanteva.netlify.app/
